@@ -8,6 +8,7 @@ body{
 }
 .text-container{
     padding: 10px;
+    height: 30vh;
 }
 .big-imgcontainer {
     background-color: #fff;
@@ -41,6 +42,7 @@ img{
 }
 .button-text{
     padding :10px;
+    height: 25vh;
 }
 .big-container{
     
