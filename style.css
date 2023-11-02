@@ -7,7 +7,7 @@ body{
     
 }
 .text-container{
-    padding: 10px;
+    padding: 15px;
     height: 30vh;
 }
 .big-imgcontainer {
@@ -41,7 +41,7 @@ img{
     color:#9aa5b1;
 }
 .button-text{
-    padding :10px;
+    padding-left :10px;
     height: 25vh;
 }
 .big-container{
