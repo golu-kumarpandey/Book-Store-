@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: #fff;
+}
+
+img{
+    height:50vh ;
+}
+.img-container{
+    padding: 10px;
+}
+.btn1{
+    color: black;
+}
+p{
+    color: #e4e7eb;
+    align-content: justify;
+}
+.big{
+    margin: 20px;
+    text-align: center;
+}
